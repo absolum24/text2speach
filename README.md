@@ -13,8 +13,3 @@ A simple Python application that converts text to speech using a graphical user 
 - Python 3.x
 - `tkinter` (usually included with Python)
 - `pyttsx3`
-
-## Installation
-1. Install the required package:
-   ```bash
-   pip install pyttsx3
